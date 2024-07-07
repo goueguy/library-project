@@ -33,5 +33,8 @@ export default class Library{
     getBooksAvailable(){
         return this.books.map(book=>`${book._title} - ${book._copies>0 ? "Available":"Out of stock"}`)
     }
+    getTotalBookCount(){
+        return this.books.length;
+    }
 }
 

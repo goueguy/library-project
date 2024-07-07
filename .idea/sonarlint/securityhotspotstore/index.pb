@@ -17,3 +17,15 @@ Library.js,9\6\96189fd6a49a6c0ef6f91cb827dc495f2c013696
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+?
+library.test.js,5\d\5dd6c5503dc1877f20a8489088cff139f259cda0
+?
+Library.test.js,9\6\96bef28db14bb83cf084ac03a2a57d371cc7b708
+?
+babel.config.js,7\7\775bd43a34022cef87b6af825cbd551f29473f73
+A
+package-lock.json,f\a\fa288d1472d29beccb489a676f68739ad365fc47
+A
+babel.config.json,5\8\583d98cb89ece0bc02e2430af46f338c74427084
+>
+jest.config.js,8\8\881d5d47bdc17ef8facebef59b68b5fc099a0293
